@@ -1,0 +1,5 @@
+user: postgres
+pass: postgres
+db: checktime  
+sslmode: disable
+
